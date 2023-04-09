@@ -1,0 +1,63 @@
+C:\Users\enako\Desktop\SI_2023_lab1_142045>git log
+commit 9f36f462639591e53baff75bcd26a2b3ca8f4909 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 20:04:46 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8a701debf9fdb9cc33d5b647779006d578a4d576
+Merge: b1a97ea 26db1b7
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 20:13:10 2023 +0200
+
+:...skipping...
+commit 9f36f462639591e53baff75bcd26a2b3ca8f4909 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 20:04:46 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 8a701debf9fdb9cc33d5b647779006d578a4d576
+Merge: b1a97ea 26db1b7
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 20:13:10 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 26db1b716baaa3dc6d3713c64ccbaeaefae1ba1e (origin/bug2, bug2)
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 20:01:42 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit b1a97ea20679f259c9487fe710e71e0ff44324bb (origin/bug1, bug1)
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 19:59:09 2023 +0200
+
+    Fix wrong loop for reading
+
+commit fd3a37956efc21bef9569f97a1018557f3a5bb98
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 19:51:11 2023 +0200
+
+    Add java class
+
+commit b745e827d888ccaf06d5b53a7f47868bfcb00c85
+Author: Emil Nakovski <e.nakovski@gmail.com>
+Date:   Sun Apr 9 19:48:53 2023 +0200
+
+    Inital commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
